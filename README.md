@@ -9,14 +9,14 @@ The **Global Bike Sales Analysis Dashboard** is a comprehensive Power BI report 
 The analysis and dashboard were built using the following tools and technologies:
 * 📊 **Power BI Desktop** – Main platform for creating the multi-page interactive report and visual storytelling layout.
 * 📂 **Power Query** – Facilitated the ETL process, connecting, cleaning, and joining multiple relational source files (Customers, Products, Sales, Territory) into a unified star schema.
-* 🧠 **DAX (Data Analysis Expressions)** – Used for advanced analytical calculations including Year-over-Year (YoY) growth, Profit Margin %, rolling averages, and revenue KPIs.
+* 🧠 **DAX (Data Analysis Expressions)** – Used for advanced analytical calculations including Year-over-Year (YoY) growth, rolling averages, and revenue KPIs.
 
   
 ## 📈 Dashboard Features & Visuals
 
 ### 1. Executive Overview & Sales Trends
 ![Bike-Sales-Analysis](https://github.com/vraj2602/Bike-Sales-Analysis/blob/main/Executive%20Dashboard.png?raw=true)
-Focuses on high-level business health. It features dynamic KPI cards for **Total Revenue: 24.9M**, **Total Profit: 10.5M**, and **Total Orders: 25.2K **, alongside a Time-Series analysis showing monthly and annual revenue trajectories across fiscal periods to monitor steady market climbs and cyclic dips.
+Focuses on high-level business health. It features dynamic KPI cards for **Total Revenue: 24.9M**, **Total Profit: 10.5M**, and **Total Orders: 25.2K**, alongside a Time-Series analysis showing monthly and annual revenue trajectories across fiscal periods to monitor steady market climbs and cyclic dips.
 
 
 ### 2. Geographic & Customer Insights
