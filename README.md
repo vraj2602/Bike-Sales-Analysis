@@ -39,6 +39,7 @@ Provides a breakdown of sales by medium (In-Store, Online, etc.) and product. It
 * **Executive Overview:** ![Executive Overview](https://github.com/vraj2602/Bike-Sales-Analysis/blob/main/Executive%20Dashboard.png?raw=true)
 * **Geographic Insights:** ![Geographic Insights](https://github.com/vraj2602/Bike-Sales-Analysis/blob/main/Map%20Details.png?raw=true)
 * **Product Performance:** ![Product Performance](https://github.com/vraj2602/Bike-Sales-Analysis/blob/main/Product%20Details.png?raw=true)
+* **Customer Performance:** ![Product Performance](https://github.com/vraj2602/Bike-Sales-Analysis/blob/main/Product%20Details.png?raw=true)
 
 ---
 **Author:** Viraj Bhosale  
